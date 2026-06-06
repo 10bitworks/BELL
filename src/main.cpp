@@ -7,7 +7,7 @@
 #if 1
   const char* ssid = "10bitworks";
   const char* password = "10bitrocks";
-  const char* mqtt_server = "10.7.1.81";
+  const char* mqtt_server = "10.7.1.168";
 #endif
 
 
