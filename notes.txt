@@ -1,0 +1,14 @@
+
+
+List hosts with an MQTT Server
+    > nmap --open -p 1883 10.7.1.1/24
+    Starting Nmap 7.95 ( https://nmap.org ) at 2026-05-23 15:43 Central Daylight Time
+    Nmap scan report for 10.7.1.81
+    Host is up (0.17s latency).
+
+    PORT     STATE SERVICE
+    1883/tcp open  mqtt
+    MAC Address: B8:27:EB:32:5F:65 (Raspberry Pi Foundation)
+
+    Nmap done: 256 IP addresses (60 hosts up) scanned in 6.63 seconds
+
